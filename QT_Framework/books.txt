@@ -1,0 +1,2 @@
+1|harry potter|j.k rowling|fiction|2007|1|1|1112233444|1|3|english|1000|55E|Thriller|1|0|30|5|2026
+2|silent patient|Alex Michaelides|fiction|2019|1|1|6665554476|1|Celadon Books|English|1009|EE4|mystery|2|1|30|5|2026
