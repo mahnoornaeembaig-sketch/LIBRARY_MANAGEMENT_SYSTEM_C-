@@ -1,0 +1,3 @@
+1|harry potter|jk rowling|fiction|2007|1|1|1000223344|2|oxford|english|1000|33EE|thriller|2|1|16|5|2026
+2|matilda|roald dahl|fiction|2009|2|1|4455336674|1|penguin|english|3000|22H9|Fun|4|0|16|5|2026
+3|charlie and the chocolate factory|roald dahl|fiction|2010|12|12|4455336676|3|penguin|english|445|22RT|thriller|2|1|16|5|2026

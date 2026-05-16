@@ -1,0 +1,42 @@
+2026-05-16 13:09:58 [INFO   ] === System started ===
+2026-05-16 13:10:37 [ACTION ] Admin logged in.
+2026-05-16 13:12:09 [ACTION ] Admin added: harry potter
+2026-05-16 13:13:54 [ACTION ] Admin added: matilda
+2026-05-16 13:16:32 [ACTION ] Admin added: charlie and the chocolate factory
+2026-05-16 13:17:11 [INFO   ] Books saved to file.
+2026-05-16 13:17:11 [INFO   ] Users and borrow records saved.
+2026-05-16 13:17:11 [INFO   ] Hold records saved.
+2026-05-16 13:17:11 [ACTION ] Admin logged out.
+2026-05-16 13:18:48 [ACTION ] Admin registered user: manahil_imran
+2026-05-16 13:18:48 [ACTION ] Self-registration from main menu.
+2026-05-16 13:19:06 [INFO   ] Books saved to file.
+2026-05-16 13:19:06 [INFO   ] Users and borrow records saved.
+2026-05-16 13:19:06 [INFO   ] Hold records saved.
+2026-05-16 13:19:06 [INFO   ] === System exited cleanly ===
+2026-05-16 13:19:25 [INFO   ] === System started ===
+2026-05-16 13:19:34 [ACTION ] Admin logged in.
+2026-05-16 13:20:35 [ACTION ] Admin registered user: mahnoor_naeem
+2026-05-16 13:21:43 [ACTION ] Admin registered user: yashfeen_raza
+2026-05-16 13:22:50 [ACTION ] Admin registered user: qiddsia_batool
+2026-05-16 13:23:03 [ACTION ] UserID=60 | Borrowed: harry potter
+2026-05-16 13:23:24 [ACTION ] UserID=54 | Borrowed: matilda
+2026-05-16 13:23:51 [INFO   ] Books saved to file.
+2026-05-16 13:23:51 [INFO   ] Users and borrow records saved.
+2026-05-16 13:23:51 [INFO   ] Hold records saved.
+2026-05-16 13:23:51 [ACTION ] Admin logged out.
+2026-05-16 13:24:01 [ACTION ] UserID=54 | Logged in.
+2026-05-16 13:24:13 [ACTION ] UserID=54 | Placed hold on: harry potter
+2026-05-16 13:24:43 [ACTION ] User mahnoor_naeem logged out.
+2026-05-16 13:24:50 [ACTION ] Admin logged in.
+2026-05-16 13:26:18 [ACTION ] UserID=60 | Returned: harry potter
+2026-05-16 13:26:35 [INFO   ] Books saved to file.
+2026-05-16 13:26:35 [INFO   ] Users and borrow records saved.
+2026-05-16 13:26:35 [INFO   ] Hold records saved.
+2026-05-16 13:26:35 [ACTION ] Admin logged out.
+2026-05-16 17:37:41 [INFO   ] === System started ===
+2026-05-16 17:37:59 [ACTION ] Admin logged in.
+2026-05-16 17:38:02 [INFO   ] Books saved to file.
+2026-05-16 17:38:02 [INFO   ] Users and borrow records saved.
+2026-05-16 17:38:02 [INFO   ] Hold records saved.
+2026-05-16 17:38:02 [ACTION ] Admin logged out.
+2026-05-16 21:19:47 [INFO   ] === System started ===
