@@ -16,6 +16,11 @@ Both versions share the same backend logic and implement identical OOP concepts 
 
 ---
 
+
+https://github.com/user-attachments/assets/9e5bf78e-2f6f-4d46-9863-3c1b648dd5a9
+
+
+
 ## 🚀 Steps to Run
 
 ### Console Version
