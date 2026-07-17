@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Overview:
 
 This project contains two fully functional versions of the Library Management System:
 
